@@ -21,7 +21,7 @@
 1. [İrem Uslu](https://github.com/irem6142)
 2. [Gülzade Evni](https://github.com/GulzadeEvni)
 3. [Kübra Arslan](https://github.com/kbrars)
-4. [Mustafa Yavuz]()
+4. [Mustafa Yavuz](https://github.com/mstkyvz)
 <br/>
 
 # :sound: Gerekli Kütüphaneler
